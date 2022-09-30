@@ -1,0 +1,2 @@
+# golang
+for studying golang
